@@ -1,0 +1,84 @@
+<html>
+<head> 
+    <title> Website login</title>
+    <link href="stylehead.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+      <div class="header">
+        <nav>
+            <img src="C:\Users\sn7re\Downloads\output-onlinepngtools.png" class="logo">
+            <ul class="nav-links">
+              <li><a href="">Home</a></li>
+              <li><a href="">About</a></li>
+              <li><a href="">Pricing</a></li>
+              <li><a href="">Terms of use</a></li>
+              <li><a href="">Contact</a></li>
+              <li class="btn">Contact Us</li>
+              
+            </ul>  
+         </nav>
+         <div class="content">
+           <h1> Learn Anything Online</h1>
+           <form>
+             <input type="text" placeholder="Enter Keyword">
+           </form>
+         </div>
+      </div>  
+
+
+      <footer class="footer-distributed">
+
+        <div class="footer-left">
+  
+          <h3>Suvidha<span>Foundation</span></h3>
+  
+          <!--<p class="footer-links">
+            <a href="#" class="link-1">Home</a>
+            
+            <a href="#">Blog</a>
+          
+            <a href="#">About</a>
+            
+            <a href="#">Contact</a>
+          </p>-->
+  
+          <p class="footer-company-name">Suvidha Foundation © 2022</p>
+        </div>
+  
+        <div class="footer-center">
+  
+          <div>
+            <i class="fa fa-map-marker"></i>
+            <p><span>H.No. 1951, W.N.4, Khaperkheda </span> Saoner, Nagpur </p>
+          </div>
+  
+          <div>
+            <i class="fa fa-phone"></i>
+            <p>7020044091</p>
+          </div>
+  
+          <div>
+            <i class="fa fa-envelope"></i>
+            <p><a href="mailto:support@company.com">Info@Suvidhafoundationedutech.Org</a></p>
+          </div>
+  
+        </div>
+  
+        <div class="footer-right">
+  
+          <p class="footer-company-about">
+            <span>About the company</span>
+            Suvidha Mahila Mandal is a non-profit organization working to impart education among the financially challenged sections to help them realize parity in education and strength of little minds in building a promising future. The organization has provisions of student internships, student mentorship and the scope to volunteer. Through these programmes, the organization aims to achieve the vision of imparting innovative education that stays with the students forever and equip them for the unforeseen future.
+          </p>
+  
+          <div class="footer-icons">
+  
+            <!--<a href="https://suvidhafoundationedutech.org/#/"><i class="fa-duotone fa-page"></i></a>-->
+            <a href="https://instagram.com/suvidhafoundationedutech?utm_medium=copy_link"><i class="fa fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/company/suvidha-foundation"><i class="fa fa-linkedin"></i></a>
+  
+        </div>
+  
+      </footer> 
+    </body>
+</html>
